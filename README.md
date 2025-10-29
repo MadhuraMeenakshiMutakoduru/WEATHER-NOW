@@ -36,7 +36,7 @@ The application was inspired by the need to provide a simple yet elegant solutio
 | API | Open-Meteo API |
 | Styling | CSS3 (Flexbox, Gradients, Media Queries) |
 | IDE | Visual Studio Code |
-| Hosting | CodeSandbox / Netlify / Vercel |
+| Hosting | Stackblitz|
 
 ---
 

@@ -6,7 +6,8 @@ The app uses the **Open-Meteo API** and adjusts visuals dynamically based on the
 ---
 
 🚀 Live Demo
-- **Deployed App: https://stackblitz.com/~/github.com/MadhuraMeenakshiMutakoduru/WEATHER-NOW 
+- **Deployed App: https://stackblitz.com/~/github.com/MadhuraMeenakshiMutakoduru/WEATHER-NOW
+- Video Demonstration: https://drive.google.com/file/d/1pAlcE5q-lnU_F-_819-mNKqatdtuZRkW/view?usp=sharing
 
 
 ---

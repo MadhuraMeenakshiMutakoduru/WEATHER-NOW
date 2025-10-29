@@ -6,8 +6,8 @@ The app uses the **Open-Meteo API** and adjusts visuals dynamically based on the
 ---
 
 🚀 Live Demo
-- **Deployed App:** [Your CodeSandbox / Netlify / Vercel Link Here]   
-- **Video Demonstration:** [Google Drive / YouTube Link Here]
+- **Deployed App: https://stackblitz.com/~/github.com/MadhuraMeenakshiMutakoduru/WEATHER-NOW 
+
 
 ---
 
@@ -45,7 +45,7 @@ The application was inspired by the need to provide a simple yet elegant solutio
 To run this project locally:
 
 1. Clone the Repository
-git clone https://github.com/your-username/instant-weather-vite.git
+https://github.com/MadhuraMeenakshiMutakoduru/WEATHER-NOW.git
 
 2. Navigate into the Folder
 cd instant-weather-vite
@@ -57,8 +57,8 @@ npm install
 npm run dev
 
 8. Open in Browser
-Go to the local development URL shown in your terminal, usually:
-http://localhost:5173/
+Go to the local development URL shown in your terminal, usually: http://localhost:5173/
+
 
 🧩 Project Notes
 Project Objective
@@ -89,9 +89,9 @@ Display sunrise/sunset and atmospheric pressure.
 👩‍💻 Author
 Madhura Meenakshi Mutakoduru
 
-LinkedIn:https://www.linkedin.com/in/madhura-meenakshi-mutakoduru-03ab1a375/
+LinkedIn: https://www.linkedin.com/in/madhura-meenakshi-mutakoduru-03ab1a375/
 
-GitHub:https://github.com/MadhuraMeenakshiMutakoduru
+GitHub: https://github.com/MadhuraMeenakshiMutakoduru
 
 📚 Acknowledgments
 Open-Meteo API for weather data.
